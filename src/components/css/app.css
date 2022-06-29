@@ -1,0 +1,8 @@
+body{
+	/* background: linear-gradient(90deg, #7272ff, white 50%, #7272ff); */
+	/* background: linear-gradient(270deg, tomato, cyan, lightgreen); */
+	background-image: url(../../img/fondo2.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
